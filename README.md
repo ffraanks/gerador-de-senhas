@@ -1,1 +1,3 @@
-# gerador-de-senhas
+# Gerador de senhas
+
+<img src="Gerador.png">
